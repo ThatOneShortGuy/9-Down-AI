@@ -1,0 +1,6 @@
+/.pytest_cache
+/config.txt
+/logs
+/models
+/train.bat
+/__pycache__
